@@ -11,6 +11,14 @@ The robot detects construction materials based on their colors, picks them up us
 
 ---
 
+## Project Poster
+
+<p align="center">
+  <img src="Poster/robot-poster.jpeg" width="900" alt="Project Poster">
+</p>
+
+---
+
 ## Features
 
 - Autonomous color detection
