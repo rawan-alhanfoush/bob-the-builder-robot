@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Images/robot-side.jpeg" width="700" alt="Bob the Builder Robot">
+</p>
+
 # 🤖 Bob the Builder – Autonomous Construction Site Waste Sorting Robot
 
 ## Overview
